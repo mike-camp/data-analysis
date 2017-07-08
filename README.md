@@ -12,7 +12,7 @@ Three clinics created datasets on patients suspected of having heart disease, wh
 * The diagnosis of heart disease presense and severity
 
 With 75 features and 773 samples, the model is at risk of overfitting the data.  However, most of these features are not actually relevent and the classification accuracy levels off after selecting ~5 features using either mutual information or the anova f ratio.   
-![accuracy vs no features]('./images/accuracy_no_features.png') 
+![accuracy vs no features]('images/accuracy_no_features.png') 
 
 Based on this, we end up finding the best accuracy using only six features present in the original 75 feature dataset.   
 
