@@ -44,7 +44,7 @@ When we tested the XGBoost Classifier on the test set, we achieved an accuracy o
 
 ## Spam Classification <a id='2'></a>
 
-Spam has been around since the beginning of the internet.  In fact, the use of spam over a network stretches al the way back to 1884 when wealthy americans were sent unsolicited investment offers over the telegraph\[[1](http://content.time.com/time/business/article/0,8599,1933796,00.html)\]  In more modern times, the first appearence of modern email spam occured on ARPANET, a military precurser to the internet, when "a man named Gary Turk sent an email solicitation to 400 people advertising his line of new computers'[1].  
+Spam has been around since the beginning of the internet.  In fact, the use of spam over a network stretches al the way back to 1884 when wealthy americans were sent unsolicited investment offers over the telegraph\[[1](http://content.time.com/time/business/article/0,8599,1933796,00.html)\]  In more modern times, the first appearence of modern email spam occured on ARPANET, a military precurser to the internet, when "a man named Gary Turk sent an email solicitation to 400 people advertising his line of new computers"\[[1](http://content.time.com/time/business/article/0,8599,1933796,00.html)\].  
 
 The UCI machine learning repository has a collection of labeled spam and ham comments from five different youtube videos.  To classify these comments as spam or ham, I used three different simple machine learning algorithms, which were
 
